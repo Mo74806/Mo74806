@@ -4,7 +4,8 @@ Hi, I'm **Mostafa Khaled** — a Frontend Engineer with 3 years of experience bu
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-khaled-4527801b5)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.khaled201774@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-khaled-4527801b5)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.khaled201774@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=green)](https://portfolio2-rho-hazel.vercel.app/)
 
 ---
 
