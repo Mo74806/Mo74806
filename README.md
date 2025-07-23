@@ -44,3 +44,5 @@ Hi, I'm **Mostafa Khaled** — a Frontend Engineer with 3 years of experience bu
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Mo74806&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo74806&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo74806&label=Profile%20Views&color=430680&style=flat" alt="mostafa" /> </p>
+
